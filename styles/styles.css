@@ -1,0 +1,43 @@
+#img {
+    display: block;
+}
+
+.web-title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: gold;
+}
+
+.image-bar {
+    text-align: center;
+    background-color: maroon;
+    padding: 12px;
+}
+
+.choice-container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12px;
+    height: 183px;
+}
+
+.burger-container {
+    display: inline;
+}
+
+.brownie-container {
+    display: inline;
+}
+
+.pancake-container {
+    display: inline;
+    text-align: center;
+}
+
+.recipe-button {
+    background-color: gold;
+    display: inline;
+    margin-left: 100px;
+    margin-right: 100px;
+}
