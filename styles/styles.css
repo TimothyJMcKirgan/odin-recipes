@@ -1,3 +1,11 @@
+img {
+    height: 183px;
+    width: 275px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
 .web-title {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -23,4 +31,33 @@
     display: inline;
     margin-left: 100px;
     margin-right: 100px;
+}
+
+.intro-package {
+    background-color: orange;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.image-describe {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 40px;
+}
+
+.ingrediants {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 40px;
+    border-left-width: 2px;
+    border-left-color: black;
+    border-left-style: solid;
+}
+
+.steps {
+    background-color: gold;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
 }
