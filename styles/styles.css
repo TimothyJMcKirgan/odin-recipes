@@ -26,12 +26,15 @@ img {
     height: 183px;
 }
 
+.choice {
+    display: inline-block;
+}
+
 .recipe-button {
     background-color: gold;
     display: inline;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 5px;
+    text-align: center;
+    padding: 2px;
 }
 
 .intro-package {
